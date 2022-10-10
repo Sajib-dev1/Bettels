@@ -1,0 +1,276 @@
+@media(min-width: 1200px) and (max-width:1399px) {
+    /* =========banner part start=========== */
+    #banner {
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+    /* =========banner part end============= */
+    /* =========footer part start=========== */
+    .foot_sec h4 {
+        font-size: 24px;
+    }
+    .foot_trd h4 {
+        font-size: 24px;
+    }
+    .foot_last h4 {
+        font-size: 24px;
+    }
+    /* =========footer part end============= */
+}
+
+@media(min-width:992px) and (max-width: 1199px) {
+    /* =========banner part start=========== */
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+    .banner_text h1 {
+        font-size: 43px;
+    }
+    /* =========banner part end============= */
+    /* ==========about part start=========== */
+    .head {
+        width: 230px;
+        margin: 0 auto;
+    }
+    .about_text p span {
+        margin-top: 10px;
+    }
+    .about_text p {
+        font-size: 15px;
+    }
+    /* ==========about part end============= */
+    /* ====testimonial part start=========== */
+    .team_overly ul li {
+        margin-bottom: 20px;
+    }
+    .team_overly {
+        width: 75px;
+    }
+    /* ====testimonial part end============= */
+    /* =========footer part start=========== */
+    .foot_fst p {
+        font-size: 14px;
+    }
+    .right_sid p {
+        font-size: 14px;
+    }
+    .foot_trd ul li a {
+        font-size: 14px;
+    }
+    .foot_trd h4 {
+        font-size: 19px;
+    }
+    .foot_last h4 {
+        font-size: 19px;
+    }
+    .foot_menu {
+        width: 144px;
+    }
+    .fot-second {
+        width: 209px;
+    }
+    /* =========footer part end============= */
+    /* ==========coppy part start=========== */
+    .coppy_text p {
+        font-size: 13px;
+    }
+    /* ==========coppy part end============= */
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    /* =========Navber part start=========== */
+    #menu-wrapper #hamburger-menu {
+        margin: 28px 89%;
+    }
+    /* =========Navber part end============= */
+    /* =========banner part start=========== */
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+    /* =========banner part end============= */
+    /* ==========about part start=========== */
+    .head {
+        width: 230px;
+        margin: 0 auto;
+    }
+    .about_text p {
+        font-size: 14px;
+        line-height: 20px;
+        /*! padding-top: 23px; */
+    }
+    .head h3 {
+        font-size: 28px;
+    }
+    /* ==========about part end============= */
+    /* ====testimonial part start=========== */
+    .testi_content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    /* ====testimonial part end============= */
+    /* =========footer part start=========== */
+    .foot_fst p span {
+        margin-top: 0px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    /* =========footer part end============= */
+}
+
+@media(min-width:576px) and (max-width:767px) {
+
+    /* =========Navber part start=========== */
+    #menu-wrapper #hamburger-menu {
+        margin: 28px 89%;
+    }
+
+    /* =========Navber part end============= */
+    /* =========banner part start=========== */
+    #banner {
+        padding-top: 140px;
+        padding-bottom: 140px;
+    }
+
+    /* =========banner part end============= */
+    /* ==========about part start=========== */
+    .about_text p {
+        padding-top: 0px;
+    }
+    .head {
+        width: 230px;
+        margin: 0 auto;
+    }
+    /* ==========about part end============= */
+    /* =========footer part start=========== */
+    .foot_menu {
+        width: 200px;
+    }
+
+    .foot_img:last-child img {
+        margin-bottom: 24px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    .foot_fst p span {
+        margin-top: 0px;
+    }
+    /* =========footer part end============= */
+}
+
+@media(max-width:575.99px) {
+
+    /* =========Navber part start=========== */
+    #header {
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+
+    .hader_icon ul li a {
+        margin-left: 4px;
+        margin-right: 4px;
+    }
+
+    .navbar {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    #menu-wrapper #hamburger-menu {
+        margin: 26px 89%;
+    }
+
+    /* =========Navber part end============= */
+    /* =========banner part start=========== */
+    #banner {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .banner_text h2 {
+        font-size: 25px;
+    }
+
+    .banner_text h1 {
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .banner_text p {
+        margin-left: 0px;
+    }
+
+    /* =========banner part end============= */
+    /* ==========about part start=========== */
+    #about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .head {
+        width: 230px;
+        margin: 0 auto;
+    }
+    .head h3 {
+        font-size: 26px;
+    }
+
+    .about_text p {
+        padding-top: 0px;
+    }
+
+    /* ==========about part end============= */
+    /* ========service part start=========== */
+    #service {
+        padding-bottom: 50px;
+    }
+
+    /* ========service part end============= */
+    /* ========Team part start============= */
+    .team_text h4 {
+        font-size: 14px;
+    }
+    .team_text p {
+        font-size: 13px;
+    }
+    .team_overly ul li a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .team_overly ul li {
+        margin-bottom: 5px;
+    }
+    /* ========Team part end============= */
+    /* =========footer part start=========== */
+    .foot_fst {
+        margin-bottom: 24px;
+    }
+
+    .foot_fst p span {
+        margin-top: 10px;
+    }
+
+    .fot-second {
+        margin-bottom: 24px;
+    }
+
+    .foot_trd {
+        margin-bottom: 24px;
+    }
+
+    .foot_img:last-child img {
+        margin-bottom: 24px;
+    }
+    /* =========footer part end============= */
+    /* ==========coppy part start=========== */
+    .coppy_text p {
+        font-size: 13px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    /* ==========coppy part end============= */
+}
